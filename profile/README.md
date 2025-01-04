@@ -2,7 +2,7 @@
 
 ##2024 Season Code
 - [2024 Robot Code](https://github.com/FRCTeam5199/Robot-Code-2024)
-- [2024 Offseason] Robot Code](https://github.com/FRCTeam5199/Leukai_TagalongRobotCode-2024-Offseason)
+- [2024 Offseason Robot Code](https://github.com/FRCTeam5199/Leukai_TagalongRobotCode-2024-Offseason)
 ## 2023 Season Code
 - [2023 Robot Code](https://github.com/FRCTeam5199/Robot-Code-2023)
 - [2023 Offseason Robot Code](https://github.com/FRCTeam5199/Commandbase-2023-Offseason)
