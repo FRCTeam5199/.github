@@ -1,6 +1,6 @@
 # Team 5199 Programming Team GitHub
 
-##2024 Season Code
+## 2024 Season Code
 - [2024 Robot Code](https://github.com/FRCTeam5199/Robot-Code-2024)
 - [2024 Offseason Robot Code](https://github.com/FRCTeam5199/Leukai_TagalongRobotCode-2024-Offseason)
 ## 2023 Season Code
